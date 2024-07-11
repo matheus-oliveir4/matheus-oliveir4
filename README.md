@@ -2,9 +2,9 @@
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matheus-oliveir4.github.io/Meu_Portifolio/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattoli68/)
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord.com/channels/@mattlim41182)
+![Matheus Git Hub stats](https://github-readme-stats.vercel.app/api?username=matheus-oliveir4&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-oliveir4)](https://github.com/matheus-oliveir4)
 
 
-![Matheus Git Hub stats](https://github-readme-stats.vercel.app/api?username=matheus-oliveir4&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
