@@ -18,7 +18,6 @@
   <img align="center" alt="booststrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="SQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</div> <br/>
 
-  
-  
-</div>
+Desenvolvedor iniciando sua carreira nesse mundo louco e maravilhoso da Tecnologia!!
