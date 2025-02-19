@@ -17,6 +17,4 @@ Seja bem vindo!!!😄
   <img align="center" alt="Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="ex" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img align="center" alt="sql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-</div> <br/>
-
-Desenvolvedor iniciando sua carreira nesse mundo louco e maravilhoso da Tecnologia!!
+</div> 
