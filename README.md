@@ -1,6 +1,8 @@
 ### Olá! Meu nome é Matheus Oliveira!! 👋
 
-Atualmente atuo como analista de business Inteligence, aqui você verá um panorama de todas as tecnologias que utilizo para realizar minhas atividades, projetos etc.
+Após anos de experieências nos setores de controle da qualidade no ramo éolico, atualmente atuo como ### Analista de Business Inteligence. 
+Aqui você verá um panorama de todas as tecnologias domino para realizar todo os meus projetos. 
+Você encontrara também projetos que englobam essas tecnologias.   
 
 Seja bem vindo!!!😄
 
