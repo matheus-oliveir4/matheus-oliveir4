@@ -1,6 +1,7 @@
 ### Olá! Meu nome é Matheus Oliveira!! 👋
 
-Após anos de experieências nos setores de controle da qualidade no ramo éolico, atualmente atuo como ### Analista de Business Inteligence. 
+Após anos de experiência nos setores de controle da qualidade do ramo éolico, atualmente atuo como 
+### Analista de Business Inteligence.
 Aqui você verá um panorama de todas as tecnologias domino para realizar todo os meus projetos. 
 Você encontrara também projetos que englobam essas tecnologias.   
 
