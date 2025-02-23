@@ -5,7 +5,9 @@ Aqui você verá um panorama de todas as tecnologias domino para realizar todo o
 Você encontrara também projetos que englobam essas tecnologias.   
 
 ### Seja bem vindo!!!😄
-<div><br/>
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattoli68/)
+<br/>
   <img align="center" alt="Exel" src= "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img align="center" alt="BI" src = "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)">
   <img align="center" alt="SQLSever" src = "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)">
