@@ -6,7 +6,7 @@ Você encontrara também projetos que englobam essas tecnologias.
 
 ### Seja bem vindo!!!😄
 
- *Para mais Informações Profissionais acesse meu LINKEDIN abaixo* <br>
+ *Para mais Informações Profissionais, acesse meu LINKEDIN abaixo:* <br> <br>
  [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattoli68/) <br>
 
 <strong> *Tecnologias e Ferramentas* <strong>  <br>
