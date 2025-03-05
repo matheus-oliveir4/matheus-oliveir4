@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Matheus Oliveira!! 👋
 
 Atualmente atuo como **Analista de Business Intelligence**, após 4 anos de expriência no setor eólico, nas áreas de controle da qualidade.
-Aqui você verá um panorama de todas as tecnologias domino para realizar todo os meus projetos. 
+Aqui você verá um panorama de todas as tecnologias domino para realizar meus projetos. 
 Você encontrara também projetos que englobam essas tecnologias.   
 
 ### Seja bem vindo!!!😄
